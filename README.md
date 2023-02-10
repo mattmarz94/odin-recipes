@@ -1,1 +1,2 @@
 # odin-recipes
+Today I will be creating my own recipe website and incorporating some of the various elements of HTML I have learned. These elements will include creating a title in the webpage tab, making the text bold or italicized, adding comments to add context to our code, create lists, add exernal or internal links to webpages, and add images to the webpage!
